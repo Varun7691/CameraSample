@@ -32,6 +32,10 @@
             android:name=".PreviewDemo"
             android:label="@string/app_name" >
         </activity>
+        <activity
+            android:name=".SampleActivity"
+            android:label="@string/title_activity_sample" >
+        </activity>
     </application>
 
 </manifest>
